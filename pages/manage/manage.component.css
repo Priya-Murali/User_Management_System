@@ -1,0 +1,36 @@
+table,th,td{
+   border: 1px solid black;
+   margin-left: .5cm;
+   margin-top: .5cm; 
+   text-align: center;
+}
+#button3{
+    border: rgb(243, 239, 239);
+    background-color: #13c813;
+    width: 5cm;
+    color: rgb(4, 4, 4);
+    font: 1em sans-serif bolder;
+    font-weight: 500;
+    margin-top: .5cm;
+    margin-left: .5cm;
+}
+#button1{
+    border: rgb(243, 239, 239);
+    background-color: #13c813;
+    width: 5cm;
+    color: rgb(4, 4, 4);
+    font: 1em sans-serif bolder;
+    font-weight: 500;
+  
+}
+#button2{
+    border: rgb(243, 239, 239);
+    background-color: #e14018;
+    width: 5cm;
+    color: rgb(4, 4, 4);
+    font: 1em sans-serif bolder;
+    font-weight: 500;
+}
+th{
+    width: 5cm;
+}
